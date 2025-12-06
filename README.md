@@ -1,7 +1,6 @@
-# Тренировка по алгоритмам
+# Тренировки Яндекса по алгоритмам
 
-Решения алгоритмических задач с различных соревнований и курсов компании Яндекс. 
-Каждая задача содержит код на Python с оптимизацией и анализом сложности.
+Тренировки. Большой забег. Онлайн-интенсивы, чтобы подтянуть знания и подготовиться к техсобесу в Яндекс.
 
 ## Структура коммитов
 
@@ -20,9 +19,10 @@
 #### Примеры
 
 ```text
-Add T1_M5_A: Two Pointers algorithm for stylish clothes
-Refactor T1_M5_A: Add type annotations and improve structure
-Fix T1_M5_A: Correct edge case handling
-Update T1_M5_A: Optimize algorithm complexity
-Docs T1_M5_A: Add algorithm explanation and complexity analysis
+Add T1_M5_E: Sliding window solution for minimal segment with all tree types
+Update T1_M1_D: Add algorithm explanation and solution steps to documentation
+Add T1_M1_D: Square root equation solution with edge cases handling
+Fix T1_M1_A: Correct LaTex
+Add T1_M1_A: State machine for HVAC system with four operation modes
+Update README.md: Add project description and commit structure
 ```
